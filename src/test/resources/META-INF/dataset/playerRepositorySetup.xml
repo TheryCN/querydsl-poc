@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<!-- Sponsors -->
+	<Sponsor spr_id="1" spr_name="Adidas" />
+	<Sponsor spr_id="2" spr_name="Nike" />
+
+	<!-- Teams -->
+	<Team tem_id="1" tem_name="Paris SG" spr_id="2" />
+	<Team tem_id="2" tem_name="Manchester United" spr_id="1" />
+
+	<!-- PSG Players -->
+	<Player plr_id="1" plr_firstname="Marco" plr_lastname="Verrati"
+		tem_id="1" />
+	<Player plr_id="2" plr_firstname="Zlatan" plr_lastname="Ibrahimovic"
+		tem_id="1" />
+	<Player plr_id="3" plr_firstname="Blaise" plr_lastname="Matuidi"
+		tem_id="1" />
+	<Player plr_id="4" plr_firstname="Thiago" plr_lastname="Motta"
+		tem_id="1" />
+	<Player plr_id="5" plr_firstname="Thiago" plr_lastname="Silva"
+		tem_id="1" />
+
+	<!-- MU Players -->
+	<Player plr_id="6" plr_firstname="David" plr_lastname="De Gea"
+		tem_id="2" />
+	<Player plr_id="7" plr_firstname="Michael" plr_lastname="Carrick"
+		tem_id="2" />
+	<Player plr_id="8" plr_firstname="Darren" plr_lastname="Fletcher"
+		tem_id="2" />
+	<Player plr_id="9" plr_firstname="Wayne" plr_lastname="Rooney"
+		tem_id="2" />
+</dataset>
